@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import { useState } from "react";
 import Layout from '../layout/Layout';
 import HomePage from "../pages/home/Home";
-import Signup from "../pages/signup";
+import Signup from "../pages/Signup";
 import Login from "../pages/login";
 import PrivateRoutes from "../pages/PrivateRoutes";
 
